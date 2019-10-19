@@ -28,6 +28,7 @@
 
 ## 生活Life
 1. [LKs](https://space.bilibili.com/125526)
+2. [医学微视](https://www.mvyxws.com/?from=timeline&isappinstalled=0)
 
 ## 书Book
 1. [Douban](https://www.douban.com/doulist/513669/?start=25&sort=time&playable=0&sub_type=4)
