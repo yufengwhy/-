@@ -1,5 +1,5 @@
 # 视频Show
-欢迎repo 泛科普视频 generic science videos
+欢迎repo [泛科普](https://zh.wikipedia.org/wiki/PanSci_%E6%B3%9B%E7%A7%91%E5%AD%B8)视频 generic science videos
 
 ## 电影Movie
 1. [Douban](https://movie.douban.com/top250)
