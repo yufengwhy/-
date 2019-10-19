@@ -15,6 +15,7 @@
 1. 3Blue1Brown [Bilibili](https://space.bilibili.com/88461692/video?tid=36&page=1&keyword=&order=pubdate) [Youtube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 2. [李永乐老师](https://space.bilibili.com/9458053)
 3. [IMO](https://www.imo-official.org/problems.aspx)
+4. [riemann黎曼猜想](https://www.changhai.org/articles/science/mathematics/riemann_hypothesis/)
 
 ## 物理Physics
 1. minutephysics [Bilibili](https://search.bilibili.com/all?keyword=%E5%88%86%E9%92%9F%E7%89%A9%E7%90%86) [Youtube](https://www.youtube.com/user/minutephysics?hl=zh-CN)
