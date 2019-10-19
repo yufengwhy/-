@@ -1,4 +1,5 @@
 # 视频Show
+欢迎repo 优质 泛科普 视频 generic science videos
 
 ## 电影Movie
 1. [Douban](https://movie.douban.com/top250)
