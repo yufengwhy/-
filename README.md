@@ -9,8 +9,9 @@
 1. [Douban](https://movie.douban.com/tv/#!type=tv&tag=热门&sort=rank&page_limit=20&page_start=20)
 2. Bilibili [灿官视界](https://space.bilibili.com/390340739)
 
-## 音乐Music
-1. [悦耳钢琴](https://space.bilibili.com/431581976)
+## 六艺Art
+1. [悦耳钢琴Piano](https://space.bilibili.com/431581976)
+2. [围棋Go](https://www.bilibili.com/video/av20960807)
 
 ## 数学Math
 1. 3Blue1Brown [Bilibili](https://space.bilibili.com/88461692/video?tid=36&page=1&keyword=&order=pubdate) [Youtube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
