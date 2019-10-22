@@ -1,4 +1,4 @@
-**电影Movie** [Douban](https://movie.douban.com/top250); Bilibili [木鱼水心](https://space.bilibili.com/927587) [大象放映室](https://space.bilibili.com/49246269) [电影最TOP](https://space.bilibili.com/17819768)
+**电影Movie**: [Douban](https://movie.douban.com/top250) | Bilibili [木鱼水心](https://space.bilibili.com/927587) [大象放映室](https://space.bilibili.com/49246269) [电影最TOP](https://space.bilibili.com/17819768)
 
 ## 剧集Series
 1. [Douban](https://movie.douban.com/tv/#!type=tv&tag=热门&sort=rank&page_limit=20&page_start=20)
