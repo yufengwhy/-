@@ -4,7 +4,7 @@
 
 **六艺Art**: [悦耳钢琴Piano](https://space.bilibili.com/431581976) [围棋Go](https://www.bilibili.com/video/av20960807) 阿木爷爷Grandpa Amu[B1](https://search.bilibili.com/all?keyword=%E9%98%BF%E6%9C%A8%E7%88%B7%E7%88%B7) [B2](http://search.bilibili.com/all?keyword=%E5%8A%9F%E9%A3%9F%E9%81%93) [Youtube](https://www.youtube.com/channel/UClaEdLrmti779-tyovta8zw)
 
-**数学Math**: 3Blue1Brown [Bilibili](https://space.bilibili.com/88461692/video?tid=36&page=1&keyword=&order=pubdate) [Youtube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) [李永乐老师](https://space.bilibili.com/9458053) [IMO](https://www.imo-official.org/problems.aspx) [riemann黎曼猜想](https://www.changhai.org/articles/science/mathematics/riemann_hypothesis/)
+**数学Math**: 3Blue1Brown [B](https://space.bilibili.com/88461692/video?tid=36&page=1&keyword=&order=pubdate) [Y](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) Mathologer[B](https://search.bilibili.com/all?keyword=mathologer)[Y](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg) [李永乐老师](https://space.bilibili.com/9458053) [IMO](https://www.imo-official.org/problems.aspx) [riemann黎曼猜想](https://www.changhai.org/articles/science/mathematics/riemann_hypothesis/)
 
 **物理Physics**: minutephysics [Bilibili](https://search.bilibili.com/all?keyword=%E5%88%86%E9%92%9F%E7%89%A9%E7%90%86) [Youtube](https://www.youtube.com/user/minutephysics?hl=zh-CN)
 
