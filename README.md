@@ -12,5 +12,5 @@
 
 **生活Life**: [LKs](https://space.bilibili.com/125526) [医学微视](https://www.mvyxws.com/?from=timeline&isappinstalled=0)
 
-**书Book**: [Douban](https://www.douban.com/doulist/513669/?start=25&sort=time&playable=0&sub_type=4) 大国大城[1](https://www.bilibili.com/video/av45772722) [2](https://www.bilibili.com/video/av50366254)
+**书Book**: [Douban](https://www.douban.com/doulist/513669/?start=25&sort=time&playable=0&sub_type=4) 大国大城[1](https://www.bilibili.com/video/av45772722) [2](https://www.bilibili.com/video/av50366254) [天天听好书](https://www.youtube.com/playlist?list=PLiOJLdqJpQpX156bT-yW1l-jHfovcxMXv)
 
