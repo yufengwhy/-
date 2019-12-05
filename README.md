@@ -16,5 +16,5 @@
 
 **财经**: 巫师财经 [B](https://space.bilibili.com/472747194/) [Y](https://www.youtube.com/channel/UC55ahPQ7m5iJdVWcOfmuE6g)
 
-**机器学习**: [伯禹人工智能学院](https://space.bilibili.com/447303411/) [将门创投](https://space.bilibili.com/209732435)
+**机器学习**: [伯禹人工智能学院](https://space.bilibili.com/447303411/) [将门创投](https://space.bilibili.com/209732435) [李宏毅](https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%AE%8F%E6%AF%85)
 
