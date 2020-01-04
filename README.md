@@ -10,7 +10,9 @@
 
 **数学Math**: 3Blue1Brown [B](https://space.bilibili.com/88461692/video?tid=36&page=1&keyword=&order=pubdate) [Y](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) Mathologer[B](https://search.bilibili.com/all?keyword=mathologer)[Y](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg) [李永乐老师](https://space.bilibili.com/9458053) [IMO](https://www.imo-official.org/problems.aspx) [riemann黎曼猜想](https://www.changhai.org/articles/science/mathematics/riemann_hypothesis/)
 
-**生活Life**: [LKs](https://space.bilibili.com/125526) [医学微视](https://www.mvyxws.com/?from=timeline&isappinstalled=0)
+**哲学**: [汤质看本质](https://space.bilibili.com/362588980)
+
+**生活Life**: [LKs](https://space.bilibili.com/125526) [医学微视](https://www.mvyxws.com/?from=timeline&isappinstalled=0) [做饭](https://space.bilibili.com/17409016)
 
 **书Book**: [Douban](https://www.douban.com/doulist/513669/?start=25&sort=time&playable=0&sub_type=4) 大国大城[1](https://www.bilibili.com/video/av45772722) [2](https://www.bilibili.com/video/av50366254) [天天听好书](https://www.youtube.com/playlist?list=PLiOJLdqJpQpX156bT-yW1l-jHfovcxMXv) [B](https://space.bilibili.com/135440057?from=search&seid=14746977212423874048)
 
