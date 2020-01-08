@@ -12,7 +12,7 @@
 
 **哲学**: [汤质看本质](https://space.bilibili.com/362588980)
 
-**生活Life**: [LKs](https://space.bilibili.com/125526) [医学微视](https://www.mvyxws.com/?from=timeline&isappinstalled=0) [做饭](https://space.bilibili.com/17409016) [吐槽大会-评论合集](https://www.bilibili.com/video/av69204452)
+**生活Life**: [LKs](https://space.bilibili.com/125526) [医学微视](https://www.mvyxws.com/?from=timeline&isappinstalled=0) [做饭](https://space.bilibili.com/17409016) [吐槽大会-评论合集](https://www.bilibili.com/video/av69204452) [吃货](https://space.bilibili.com/94114029/video)
 
 **书Book**: [Douban](https://www.douban.com/doulist/513669/?start=25&sort=time&playable=0&sub_type=4) 大国大城[1](https://www.bilibili.com/video/av45772722) [2](https://www.bilibili.com/video/av50366254) [天天听好书](https://www.youtube.com/playlist?list=PLiOJLdqJpQpX156bT-yW1l-jHfovcxMXv) [B](https://space.bilibili.com/135440057?from=search&seid=14746977212423874048)
 
