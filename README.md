@@ -20,5 +20,5 @@
 
 **机器学习**: [伯禹人工智能学院](https://space.bilibili.com/447303411/) [将门创投](https://space.bilibili.com/209732435) [李宏毅](https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%AE%8F%E6%AF%85)
 
-**古生物**: [鬼谷](https://space.bilibili.com/72270557/video)
+**公开课**: [古生物鬼谷](https://space.bilibili.com/72270557/video) [B](https://mp.weixin.qq.com/s/CJk8n3EhD2HS5dDxv--feg) MOOC
 
