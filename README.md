@@ -10,7 +10,7 @@
 
 **数学Math**: 3Blue1Brown [B](https://space.bilibili.com/88461692/video?tid=36&page=1&keyword=&order=pubdate) [Y](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) Mathologer[B](https://search.bilibili.com/all?keyword=mathologer)[Y](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg) [李永乐老师](https://space.bilibili.com/9458053) [IMO](https://www.imo-official.org/problems.aspx) [riemann黎曼猜想](https://www.changhai.org/articles/science/mathematics/riemann_hypothesis/)
 
-**哲学**: [汤质看本质](https://space.bilibili.com/362588980)
+**哲学**: [王德峰](https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%BE%B7%E5%B3%B0)
 
 **生活Life**: [LKs](https://space.bilibili.com/125526) [医学微视](https://www.mvyxws.com/?from=timeline&isappinstalled=0) [吐槽大会-评论合集](https://www.bilibili.com/video/av69204452) 饭[1](https://space.bilibili.com/94114029/video) [2](https://www.bilibili.com/video/av41659455) [3](https://space.bilibili.com/17546432) [4](https://space.bilibili.com/17409016) [5](https://space.bilibili.com/18202105) [6](https://space.bilibili.com/390461123) [厨具](https://space.bilibili.com/196356191) [试吃](https://space.bilibili.com/216623621/video) 装机[1](https://space.bilibili.com/25876945/video) [2](https://space.bilibili.com/35359510) 趣游戏[1](https://space.bilibili.com/37946996) [2](https://space.bilibili.com/1950209) [笑](https://space.bilibili.com/13354765)
 
