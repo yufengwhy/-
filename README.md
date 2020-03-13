@@ -22,3 +22,5 @@
 
 **公开课**: [古生物鬼谷](https://space.bilibili.com/72270557/video) [B](https://mp.weixin.qq.com/s/CJk8n3EhD2HS5dDxv--feg) [MOOC](https://www.icourse163.org/)
 双语 [1](http://www.qqenglish.com/bn/science/) [2](https://soft-helper.com/category/jingjixueren/)
+
+**code**: [missingMIT](https://missing.csail.mit.edu/)
